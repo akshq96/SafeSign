@@ -53,7 +53,7 @@ npm run dev
 
 Runs on `http://localhost:5173` and proxies `/api/*` to the backend.
 
-## Grant applicatio
+## Grant applicati
 
 - **Why this fits DD.xyz / Webacy**: it's a direct, user-facing showcase of
   Webacy's own risk intelligence API, applied at the single highest-leverage
