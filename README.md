@@ -24,7 +24,7 @@ Built for the DD.xyz by Webacy Startup Accelerator Grant.
 ## Project structure
 
 ```
-safesign/
+ safesign/
   backend/    Express server, proxies Webacy's API (keeps your API key server-side)
   frontend/   React + Vite UI
 ```
